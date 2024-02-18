@@ -1,14 +1,14 @@
 #EXTM3U x-tvg-url="https://cdn.hkdtmb.com/epg/full.xml"
 #EXTINF:-1 group-title="{TVB}    無綫電視", {TVB}    無綫電視
-#EXTINF:-1 tvg-id="81" tvg-name="Jade 翡翠台" tvg-logo="https://info.hkanimal.com/png_logo/81.png" group-title="{TVB}    無綫電視", Jade 翡翠台[直播]
+#EXTINF:-1 tvg-id="81" tvg-name="Jade 翡翠台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TVB1.png" group-title="{TVB}    無綫電視", Jade 翡翠台[直播]
 https://cdn.hkdtmb.com/hls/live/81.m3u8?token=699228162273856
 #EXTINF:-1 tvg-id="82" tvg-name="J2台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TVB3.png" group-title="{TVB}    無綫電視", J2台[直播]
 https://cdn.hkdtmb.com/hls/live/82.m3u8?token=699228162273856
-#EXTINF:-1 tvg-id="83" tvg-name="News 新聞台" tvg-logo="https://info.hkanimal.com/png_logo/83.png" group-title="{TVB}    無綫電視", News 新聞台[直播]
+#EXTINF:-1 tvg-id="83" tvg-name="News 新聞台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TVB4.png" group-title="{TVB}    無綫電視", News 新聞台[直播]
 https://cdn.hkdtmb.com/hls/live/83.m3u8?token=699228162273856
-#EXTINF:-1 tvg-id="84" tvg-name="Pearl 明珠台" tvg-logo="https://info.hkanimal.com/png_logo/84.png" group-title="{TVB}    無綫電視", Pearl 明珠台[直播]
+#EXTINF:-1 tvg-id="84" tvg-name="Pearl 明珠台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TVB2.png" group-title="{TVB}    無綫電視", Pearl 明珠台[直播]
 https://cdn.hkdtmb.com/hls/live/84.m3u8?token=699228162273856
-#EXTINF:-1 tvg-id="85" tvg-name="Info 財經 體育 資訊台" tvg-logo="https://info.hkanimal.com/png_logo/85.png" group-title="{TVB}    無綫電視", Info 財經 體育 資訊台[直播]
+#EXTINF:-1 tvg-id="85" tvg-name="Info 財經 體育 資訊台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TVB5.png" group-title="{TVB}    無綫電視", Info 財經 體育 資訊台[直播]
 https://cdn.hkdtmb.com/hls/live/85.m3u8?token=699228162273856
 #EXTINF:-1 group-title="{HOY} 奇妙電視", {HOY} 奇妙電視
 #EXTINF:-1 tvg-id="77" tvg-name="HOY TV" tvg-logo="https://info.hkanimal.com/png_logo/77.png" group-title="{HOY} 奇妙電視", HOY TV[直播]
